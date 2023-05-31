@@ -1,4 +1,4 @@
-{
+
   "connector": {
     "name": "local",
     "options": {
@@ -16,3 +16,4 @@
     "no-inline-styles:error"
   ]
 }
+
