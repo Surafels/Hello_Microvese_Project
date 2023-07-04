@@ -2,7 +2,7 @@
 <div align="center">
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse project</b></h3>
 
 </div>
 
@@ -26,8 +26,8 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
-# 📖 [project_name] <a name="Mobile_Portfolio"></a>
-**[Portfolio_Mobile]** is describing greeting for Microverese 
+# 📖 [project_name] <a name="Hello Microverse project"></a>
+**[Hello Microverse project]** is describing greeting for Microverse
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,9 +53,9 @@ To get a local copy up and running, follow these steps.
 ### Setup 
 
 1. Download the **Zip** file or clone the repo with:
-```bash git clone git@github.com:Surafels/Portfolio_Mobile.git ``` 
+```bash git clone git@github.com:Surafels/Hello_Microverse_project.git ``` 
 2. To access cloned directory run: 
-```bash cd Portfolio_Mobile ``` 
+```bash cd Hello_Microverse_project ``` 
 3. Open it with the live server 
 
 ### Install 
@@ -77,7 +77,6 @@ Test for Linters For tracking linter errors locally you need to follow these ste
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Surafel Chaka**
-
 - GitHub: [@Surafels](https://github.com/Surafels)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -89,7 +88,7 @@ Test for Linters For tracking linter errors locally you need to follow these ste
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/Surafels/Portfolio_Mobile/issues).
+Feel free to check the [issues page](https://github.com/Surafels/Hello_Microvese_Project/pull/2 issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,7 +99,7 @@ If you like this project please put star.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my partner. https://github.com/Saritalitu23.
+We would like to thank  Microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
