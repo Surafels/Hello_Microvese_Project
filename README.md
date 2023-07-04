@@ -2,7 +2,7 @@
 <div align="center">
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse project</b></h3>
 
 </div>
 
@@ -12,7 +12,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -27,8 +26,8 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
-# 📖 [project_name] <a name="Hello_Microverse_project"></a>
-**[Hello_Microverse_project]** is describing greeting for Microverese 
+# 📖 [Hello microverse first project] <a name="Hello microverse first project"></a>
+**[Hello microverse first project]** is describing greeting for Microverse
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,9 +53,9 @@ To get a local copy up and running, follow these steps.
 ### Setup 
 
 1. Download the **Zip** file or clone the repo with:
-```bash git clone git@github.com:Mahdi-Niazi/Project-Week-1.git ``` 
+```bash git clone git@github.com:Surafels/Hello_Microverse_project.git ``` 
 2. To access cloned directory run: 
-```bash cd Hello_micorverse ``` 
+```bash cd Hello_Microverse_project ``` 
 3. Open it with the live server 
 
 ### Install 
@@ -77,8 +76,7 @@ Test for Linters For tracking linter errors locally you need to follow these ste
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
-
+👤 **Surafel Chaka**
 - GitHub: [@Surafels](https://github.com/Surafels)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -90,7 +88,7 @@ Test for Linters For tracking linter errors locally you need to follow these ste
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Surafels/Hello_Microvese_Project/pull/2 issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,11 +99,11 @@ If you like this project please put star.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my partners.
+We would like to thank  Microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
