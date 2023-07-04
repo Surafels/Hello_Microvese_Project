@@ -26,8 +26,8 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
-# 📖 [project_name] <a name="Hello Microverse project"></a>
-**[Hello Microverse project]** is describing greeting for Microverse
+# 📖 [Hello microverse first project] <a name="Hello microverse first project"></a>
+**[Hello microverse first project]** is describing greeting for Microverse
 
 ## 🛠 Built With <a name="built-with"></a>
 

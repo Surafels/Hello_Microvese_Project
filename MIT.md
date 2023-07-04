@@ -1,5 +1,5 @@
   Copyright 2023, Surafel Chaka
-Permission is hereby granted, free of charge, to any person obtaining a copy of this [APP TYPE] and associated documentation files, to deal in the review_project without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the review_project, and to permit persons to whom the  is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Hello microverse first project and associated documentation files, to deal in the review_project without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the review_project, and to permit persons to whom the  is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the  Hello_microverse_first_project.
 
